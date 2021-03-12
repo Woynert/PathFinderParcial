@@ -1,0 +1,1 @@
+javac -d ./ ./eduSrc/*.java && java main.java
